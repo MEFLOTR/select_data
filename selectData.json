@@ -1,7 +1,7 @@
 {
   "saldoInicial": 10000,
   "acumulados": {
-    "MOS": 0,
+    "MOS": 1000,
     "BF-B": 0,
     "CPB": 0,
     "GIS": 0,
@@ -72,7 +72,7 @@
     "TYL": 0,
     "UPBD": 0,
     "WDAY": 0,
-    "ENPH": 0,
+    "ENPH": 1000,
     "SHLS": 0,
     "VZ": 0,
     "LEN": 0,
