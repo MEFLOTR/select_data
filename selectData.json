@@ -48,7 +48,7 @@
     "RHI": 0,
     "UPWK": 0,
     "WSC": 0,
-    "ADBE": 0,
+    "ADBE": 1000,
     "BL": 0,
     "BOX": 0,
     "CRM": 0,
