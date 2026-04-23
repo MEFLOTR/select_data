@@ -1,9 +1,9 @@
 {
   "saldoInicial": 10000,
   "acumulados": {
-    "MOS": 4000,
+    "MOS": 3000,
     "BF-B": 0,
-    "CPB": 0,
+    "CPB": 1000,
     "GIS": 0,
     "HRL": 0,
     "INGR": 0,
