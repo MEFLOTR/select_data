@@ -82,7 +82,7 @@
     "CERT": 0,
     "CHRS": 0,
     "HRMY": 0,
-    "KROS": 0,
+    "KROS": 1000,
     "MDXG": 0,
     "SIGA": 0,
     "TECH": 0,
