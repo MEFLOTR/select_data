@@ -1,5 +1,5 @@
 {
-  "saldoInicial": 10000,
+  "saldoInicial": 0,
   "acumulados": {
     "MOS": 2000,
     "BF-B": 0,
