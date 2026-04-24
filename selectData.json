@@ -1,7 +1,7 @@
 {
   "saldoInicial": 10000,
   "acumulados": {
-    "MOS": 2000,
+    "MOS": 0,
     "BF-B": 0,
     "CPB": 0,
     "GIS": 0,
@@ -48,7 +48,7 @@
     "RHI": 0,
     "UPWK": 0,
     "WSC": 0,
-    "ADBE": 1000,
+    "ADBE": 0,
     "BL": 0,
     "BOX": 0,
     "CRM": 0,
@@ -68,7 +68,7 @@
     "PRGS": 0,
     "QLYS": 0,
     "SPSC": 0,
-    "TTD": 0,
+    "TTD": 1000,
     "TYL": 0,
     "UPBD": 0,
     "WDAY": 0,
